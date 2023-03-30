@@ -1,0 +1,21 @@
+{
+  "name": "PequisaPaises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "process": "node ./src/process"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fz21873/PequisaPaises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fz21873/PequisaPaises/issues"
+  },
+  "homepage": "https://github.com/fz21873/PequisaPaises#readme"
+}
